@@ -1,2 +1,2 @@
-# QAInnovationLab
-Automation Team / For education purpose
+# Examen API TEST - PETSTORE - QAInnovationLab
+
